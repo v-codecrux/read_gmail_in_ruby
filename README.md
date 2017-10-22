@@ -6,4 +6,6 @@ READ GMAIL messages.
 
 This piece of code is handy when you are doing any offline process with user's message but have taken their permissions from either mobile app or web. Once they have granted permission, your app will have their access token and refresh token.
 
+'google/apis/gmail_v1' requires google-api-client gem
+
 [search operators]: https://support.google.com/mail/answer/7190?hl=en
