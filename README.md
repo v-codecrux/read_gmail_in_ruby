@@ -9,3 +9,4 @@ This piece of code is handy when you are doing any background process with user'
 'google/apis/gmail_v1' requires google-api-client gem
 
 [search operators]: https://support.google.com/mail/answer/7190?hl=en
+![alt text](https://github.com/v-codecrux/test_blog/blob/master/app/assets/images/authorclimber.JPG)
